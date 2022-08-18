@@ -1,12 +1,10 @@
-<div align="center">
-          U       U     N N N N      3 3 3 3     5 5 5 5 5 <br>
-          U       U    N       N    3      33    5<br>
-          U       U    N       N         33      5 5 5 55<br>
-          U       U    N       N          33            55<br>
-          U       U    N       N    3      33           55<br>
-           U U U U     N       N     3 3 3 3     5 5 5 55<br>
-</div>
 
+                    U       U     N N N N      3 3 3 3     5 5 5 5 5
+                    U       U    N       N    3      33    5
+                    U       U    N       N         33      5 5 5 55
+                    U       U    N       N          33            55
+                    U       U    N       N    3      33           55
+                     U U U U     N       N     3 3 3 3     5 5 5 55
 
 
 <!---
