@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2 align="center">moad was here</h2>
-<div align="center" width="70%" src="https://github.com/UNES01/UNES01/blob/main/giphy.gif"></div>
+<div align="center"  src="https://github.com/UNES01/UNES01/blob/main/giphy.gif"></div>
