@@ -15,7 +15,7 @@ UNES01/UNES01 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-< align="center">
+<div align="center">
           <h2>moad was here</h2>
           <img src="https://github.com/UNES01/UNES01/blob/main/giphy.gif">
-</>
+</div>
