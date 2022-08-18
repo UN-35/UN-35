@@ -20,4 +20,6 @@
 
 
 
-<script src="https://kit.fontawesome.com/1b1f7e3399.js" crossorigin="anonymous"></script>
+<body>
+         <script src="https://kit.fontawesome.com/1b1f7e3399.js" crossorigin="anonymous"></script>
+</body>
