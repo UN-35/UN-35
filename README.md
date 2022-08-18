@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
           <h2>moad was here</h2>
-          <img src="https://github.com/UNES01/UNES01/blob/main/giphy.gif">
+          <img width="80%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
