@@ -18,7 +18,7 @@
 
 ~/UN35/Desctop$ cd ..
 ~/UN35$ cat CurrentLife
-Computer Science At <a href="https://www.1337.ma/">1337</a> Benguerir
+Computer Science At 1337 Benguerir
 Front-end Developer
 ~/UN35$ cat contacts
 Discord: UN35#4214
