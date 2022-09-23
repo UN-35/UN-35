@@ -16,15 +16,17 @@
 
 ```
 
-~/UN35/Desctop$ cd ..
-~/UN35$ cat CurrentLife
-Computer Science At 1337 Benguerir
-Front-end Developer
-~/UN35$ cat contacts
+$> man UN35
+CurrentLife
+
+-Computer Science Student At 1337 Benguerir.
+-Front-end Web Developer.
+
+Contacts
+
 Discord: UN35#4214
 Twitter: @UN35_
 Instgram: younes__elansari
-~/UN35$ |
 
 ```
 ---
