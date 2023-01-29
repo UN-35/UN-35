@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![yoelansa's 42 stats](https://badge.mediaplus.ma/kettlebells/yoelansa)](https://github.com/oakoudad/badge42)
+[![yoelansa's 42 stats](https://badge42.vercel.app/api/v2/cldhgkdh900640gl92a3fc4ga/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
 
 </div>
 
