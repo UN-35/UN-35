@@ -5,15 +5,6 @@
 
 ---
 
-
-<div align="center">
-
-[![yoelansa's 42 stats](https://badge42.vercel.app/api/v2/cldhgkdh900640gl92a3fc4ga/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
-
-</div>
-
----
-
 ```
 
 $> man UN35
@@ -26,7 +17,14 @@ Contacts
 
 Discord: UN35#4214
 Twitter: @UN35_
-Instgram: younes__elansari
 
 ```
+---
+
+<div align="center">
+
+[![yoelansa's 42 stats](https://badge42.vercel.app/api/v2/cldhgkdh900640gl92a3fc4ga/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
+
+</div>
+
 ---
