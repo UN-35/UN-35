@@ -7,18 +7,15 @@
 
 ```
 $> man UN35
-CurrentLife
-
+CurrentLife=
 -Computer Science Student At 1337 Benguerir.
--Front-end Web Developer.
 
-Contacts
-
+Contact=
 Discord: UN35#4214
 Twitter: @UN35_
 ```
 ---
-
+<!--
 ```./1337_CURSUS CARD```
 <div align="center">
 
@@ -27,3 +24,5 @@ Twitter: @UN35_
 </div>
 
 ---
+-->
+
