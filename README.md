@@ -12,9 +12,8 @@ CurrentLife=
 
 Contact=
 Discord: UN35#4214
-Email: younesari01@gmail.com
-     / yoelansa@student.1337.ma
-Twitter: @UN35_
+Email: elansariunes00@gmail.com \
+       yoelansa@student.1337.ma
 ```
 ---
 <!--
