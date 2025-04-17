@@ -65,8 +65,7 @@ Software Developer, graduated from 1337 Benguerir (42 Network). Passionate about
   
   [![Email](https://img.shields.io/badge/Email-elansariunes00%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elansariunes00@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-younes--elansari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-elansari/)
-  [![Discord](https://img.shields.io/badge/Discord-UN35%234214-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me/624362167512072194)
-  [![GitHub](https://img.shields.io/badge/GitHub-UN35-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UN35)
+  [![GitHub](https://img.shields.io/badge/GitHub-UN35-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UN-35)
   
 </div>
 
