@@ -54,10 +54,10 @@ Software Developer, graduated from 1337 Benguerir (42 Network). Passionate about
 
 ## 💼 Professional Work
 
-- **Odoo Development:** Creating custom Odoo modules and extending core functionality for business-specific requirements
-- **System Integration:** Connecting Odoo instances with external systems through API and XML-RPC implementations
 - **DevOps Engineering:** Working extensively with Docker, containers, and infrastructure automation
 - **Backend Development:** Building scalable services with focus on performance and reliability
+- **Odoo Development:** Creating custom Odoo modules and extending core functionality for business-specific requirements
+- **System Integration:** Connecting Odoo instances with external systems through API and XML-RPC implementations
 
 ## 📫 Contact Me
 
