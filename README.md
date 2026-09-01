@@ -111,18 +111,6 @@ Worked on educational software projects involving Docker, networking, web develo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Younes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UN-35&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UN-35&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -134,7 +122,3 @@ Worked on educational software projects involving Docker, networking, web develo
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UN-35&color=blue" alt="Profile Views" />
-</div>
