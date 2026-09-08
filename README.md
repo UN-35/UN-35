@@ -107,7 +107,7 @@ Worked on educational software projects involving Docker, networking, web develo
 
 - **Software Engineering — 1337 Coding School / 42 Network**
 - **Web Development Program**
-- **Math & Computer Science — University**
+- **Math & Computer Science — Ibn Zohr University**
 
 ---
 
